@@ -141,7 +141,6 @@ cython_debug/
 *.code-workspace
 .history/
 
-  
 # MAC OSX
 .DS_Store
 .AppleDouble
@@ -169,5 +168,8 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
-# Virtual Environment
+# Logs
+logs/
+
+# Virtual Environments
 virtualenv/
